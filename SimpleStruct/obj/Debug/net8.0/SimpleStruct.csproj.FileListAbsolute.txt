@@ -1,0 +1,14 @@
+C:\Users\Armend\source\repos\SimpleStruct\obj\Debug\net8.0\SimpleStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armend\source\repos\SimpleStruct\obj\Debug\net8.0\SimpleStruct.AssemblyInfoInputs.cache
+C:\Users\Armend\source\repos\SimpleStruct\obj\Debug\net8.0\SimpleStruct.AssemblyInfo.cs
+C:\Users\Armend\source\repos\SimpleStruct\obj\Debug\net8.0\SimpleStruct.csproj.CoreCompileInputs.cache
+C:\Users\Armend\source\repos\SimpleStruct\bin\Debug\net8.0\SimpleStruct.exe
+C:\Users\Armend\source\repos\SimpleStruct\bin\Debug\net8.0\SimpleStruct.deps.json
+C:\Users\Armend\source\repos\SimpleStruct\bin\Debug\net8.0\SimpleStruct.runtimeconfig.json
+C:\Users\Armend\source\repos\SimpleStruct\bin\Debug\net8.0\SimpleStruct.dll
+C:\Users\Armend\source\repos\SimpleStruct\bin\Debug\net8.0\SimpleStruct.pdb
+C:\Users\Armend\source\repos\SimpleStruct\obj\Debug\net8.0\SimpleStruct.dll
+C:\Users\Armend\source\repos\SimpleStruct\obj\Debug\net8.0\refint\SimpleStruct.dll
+C:\Users\Armend\source\repos\SimpleStruct\obj\Debug\net8.0\SimpleStruct.pdb
+C:\Users\Armend\source\repos\SimpleStruct\obj\Debug\net8.0\SimpleStruct.genruntimeconfig.cache
+C:\Users\Armend\source\repos\SimpleStruct\obj\Debug\net8.0\ref\SimpleStruct.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SimpleStruct/1.0.0": {
+        "runtime": {
+          "SimpleStruct.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleStruct/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
